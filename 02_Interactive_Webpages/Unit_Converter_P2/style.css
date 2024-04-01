@@ -1,0 +1,19 @@
+body {
+    background-color: cyan;
+    padding: 20px;
+  }
+  
+  h1 {
+    padding: 20px;
+    background: white;
+    border-radius: 1px;
+  }
+  
+  p {
+    background-color: white;
+    color: aqua;
+    border-radius: 1px;
+    width: 200px;
+    height: 20px;
+    padding: 20px;
+  }
